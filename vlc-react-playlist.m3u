@@ -1,0 +1,61 @@
+#EXTM3U
+#EXTINF:642,01 - Introduction, Tooling and Editor Setup.mp4
+/Users/growdigital/Movies/Dev/React/01 - Introduction, Tooling and Editor Setup.mp4
+#EXTINF:445,02 - Thinking and Understanding React Components.mp4
+/Users/growdigital/Movies/Dev/React/02 - Thinking and Understanding React Components.mp4
+#EXTINF:601,03 - Creating our First Components.mp4
+/Users/growdigital/Movies/Dev/React/03 - Creating our First Components.mp4
+#EXTINF:402,04 - Writing HTML with JSX.mp4
+/Users/growdigital/Movies/Dev/React/04 - Writing HTML with JSX.mp4
+#EXTINF:136,05 - Loading CSS into our React Application.mp4
+/Users/growdigital/Movies/Dev/React/05 - Loading CSS into our React Application.mp4
+#EXTINF:308,06 - Creating our application layout with components.mp4
+/Users/growdigital/Movies/Dev/React/06 - Creating our application layout with components.mp4
+#EXTINF:412,07 - Passing Dynamic data with props.mp4
+/Users/growdigital/Movies/Dev/React/07 - Passing Dynamic data with props.mp4
+#EXTINF:191,08 - Stateless Functional Components.mp4
+/Users/growdigital/Movies/Dev/React/08 - Stateless Functional Components.mp4
+#EXTINF:412,09 - Routing with React Router.mp4
+/Users/growdigital/Movies/Dev/React/09 - Routing with React Router.mp4
+#EXTINF:202,10 - Helper and Utility Functions.mp4
+/Users/growdigital/Movies/Dev/React/10 - Helper and Utility Functions.mp4
+#EXTINF:855,11 - Working with React Events.mp4
+/Users/growdigital/Movies/Dev/React/11 - Working with React Events.mp4
+#EXTINF:392,12 - All About React Router.mp4
+/Users/growdigital/Movies/Dev/React/12 - All About React Router.mp4
+#EXTINF:1433,13 - Understanding State.mp4
+/Users/growdigital/Movies/Dev/React/13 - Understanding State.mp4
+#EXTINF:262,14 - Loading data into state onClick.mp4
+/Users/growdigital/Movies/Dev/React/14 - Loading data into state onClick.mp4
+#EXTINF:632,15 - Displaying State with JSX.mp4
+/Users/growdigital/Movies/Dev/React/15 - Displaying State with JSX.mp4
+#EXTINF:622,16 - Updating Order State.mp4
+/Users/growdigital/Movies/Dev/React/16 - Updating Order State.mp4
+#EXTINF:705,17 - Displaying Order State with JSX.mp4
+/Users/growdigital/Movies/Dev/React/17 - Displaying Order State with JSX.mp4
+#EXTINF:805,18 - Persisting our State with Firebase.mp4
+/Users/growdigital/Movies/Dev/React/18 - Persisting our State with Firebase.mp4
+#EXTINF:646,19 - Persisting Order State with localstorage.mp4
+/Users/growdigital/Movies/Dev/React/19 - Persisting Order State with localstorage.mp4
+#EXTINF:900,20 - Bi-directional Data Flow and Live State Editing .mp4
+/Users/growdigital/Movies/Dev/React/20 - Bi-directional Data Flow and Live State Editing .mp4
+#EXTINF:470,21 - Removing Items from State.mp4
+/Users/growdigital/Movies/Dev/React/21 - Removing Items from State.mp4
+#EXTINF:1281,22 - Animation React Components.mp4
+/Users/growdigital/Movies/Dev/React/22 - Animation React Components.mp4
+#EXTINF:557,23 - Component Validation with PropTypes.mp4
+/Users/growdigital/Movies/Dev/React/23 - Component Validation with PropTypes.mp4
+#EXTINF:1414,24 - Authentication.mp4
+/Users/growdigital/Movies/Dev/React/24 - Authentication.mp4
+#EXTINF:182,25 - Building React for Production.mp4
+/Users/growdigital/Movies/Dev/React/25 - Building React for Production.mp4
+#EXTINF:381,26 - Deploying to now sh.mp4
+/Users/growdigital/Movies/Dev/React/26 - Deploying to now sh.mp4
+#EXTINF:414,27 - Deploying to GitHub Pages.mp4
+/Users/growdigital/Movies/Dev/React/27 - Deploying to GitHub Pages.mp4
+#EXTINF:314,28 - Deploying to an Apache Server.mp4
+/Users/growdigital/Movies/Dev/React/28 - Deploying to an Apache Server.mp4
+#EXTINF:380,29 - Future React Today - Property Initializers and getting rid of .bind().mp4
+/Users/growdigital/Movies/Dev/React/29 - Future React Today - Property Initializers and getting rid of .bind().mp4
+#EXTINF:302,30 - Ejecting from create-react-app.mp4
+/Users/growdigital/Movies/Dev/React/30 - Ejecting from create-react-app.mp4
