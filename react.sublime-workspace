@@ -1,0 +1,815 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"add",
+				"addToOrder"
+			],
+			[
+				"samp",
+				"sampleFishes"
+			],
+			[
+				"time",
+				"timestamp"
+			],
+			[
+				"Ro",
+				"BrowserRouter"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"bro",
+				"border-radius"
+			],
+			[
+				"align",
+				"align-items"
+			],
+			[
+				"space",
+				"space-between"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"backg",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "catch-of-the-day/src/components/App.js",
+			"settings":
+			{
+				"buffer_size": 1597,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 187.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"prettier",
+				"Preferences: JsPrettier Settings - Default"
+			],
+			[
+				"prett",
+				"Preferences: JsPrettier Settings - Default"
+			],
+			[
+				"subl",
+				"SublimeLinter: Choose Lint Mode"
+			],
+			[
+				"lint",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"package ins",
+				"Package Control: Install Package"
+			],
+			[
+				"list pa",
+				"Package Control: List Packages"
+			],
+			[
+				"packe",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: editorconfig"
+			],
+			[
+				"insert",
+				"InsertDate: Custom"
+			],
+			[
+				"Snippet: \t",
+				"Snippet: handlebars template"
+			],
+			[
+				"remove pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"list p",
+				"Package Control: List Packages"
+			],
+			[
+				"sbulim",
+				"Preferences: SublimeLinter Settings – User"
+			],
+			[
+				"marke",
+				"Marked"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"gi",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 538.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/growdigital/Learn/React/catch-of-the-day",
+		"/Users/growdigital/Learn/React/catch-of-the-day/src"
+	],
+	"file_history":
+	[
+		"/Users/growdigital/Learn/React/catch-of-the-day/src/helpers.js",
+		"/Users/growdigital/Learn/React/catch-of-the-day/src/components/App.js",
+		"/Users/growdigital/Learn/React/catch-of-the-day/src/components/Fish.js",
+		"/Users/growdigital/Desktop/vegcal.json",
+		"/Users/growdigital/Learn/React/catch-of-the-day/src/sample-fishes.js",
+		"/Users/growdigital/Library/Application Support/Sublime Text 3/Packages/JsPrettier/JsPrettier.sublime-settings",
+		"/Users/growdigital/Learn/React/catch-of-the-day/src/components/Inventory.js",
+		"/Users/growdigital/Learn/React/catch-of-the-day/src/components/StorePicker.js",
+		"/Users/growdigital/Learn/React/catch-of-the-day/src/components/AddFishForm.js",
+		"/Users/growdigital/Learn/React/catch-of-the-day/src/index.js",
+		"/Users/growdigital/Learn/React/catch-of-the-day/package.json",
+		"/Users/growdigital/Learn/React/catch-of-the-day/package",
+		"/Users/growdigital/Learn/React/catch-of-the-day/src/components/Order.js",
+		"/Users/growdigital/Learn/React/catch-of-the-day/src/components/NotFound.js",
+		"/Users/growdigital/Learn/React/catch-of-the-day/src/components/Header.js",
+		"/Users/growdigital/Learn/React/catch-of-the-day/public/index.html",
+		"/Users/growdigital/Library/Application Support/Sublime Text 3/Packages/Babel/Babel.sublime-settings",
+		"/Users/growdigital/Library/Application Support/Sublime Text 3/Packages/Emmet/Default (OSX).sublime-keymap",
+		"/Users/growdigital/Library/Application Support/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings",
+		"/Users/growdigital/Library/Application Support/Sublime Text 3/Packages/User/Emmet.sublime-settings",
+		"/Users/growdigital/Learn/React/react.sublime-project",
+		"/Users/growdigital/Desktop/colors.less",
+		"/Users/growdigital/Sites/growdigital.org/src/posts/170922-out-in-the-world.md",
+		"/Users/growdigital/Sites/growdigital.org/index.js",
+		"/Users/growdigital/Sites/growdigital.org/partials/aside.hbs",
+		"/Users/growdigital/Sites/growdigital.org/layouts/post.hbs",
+		"/Users/growdigital/Sites/growdigital.org/layouts/layout.hbs",
+		"/Users/growdigital/Sites/growdigital.org/src/assets/css/settings/typography.css",
+		"/Users/growdigital/Sites/growdigital.org/src/assets/css/settings/base.css",
+		"/Users/growdigital/Sites/growdigital.org/src/assets/css/settings/variables.css",
+		"/Users/growdigital/Sites/growdigital.org/package.json",
+		"/Users/growdigital/Sites/growdigital.org/partials/footer.hbs",
+		"/Users/growdigital/Sites/growdigital.org/src/about.md",
+		"/Users/growdigital/Sites/growdigital.org/src/assets/modules/components/section/home/home.css",
+		"/Users/growdigital/Sites/growdigital.org/partials/header-home.hbs",
+		"/Users/growdigital/Sites/growdigital.org/partials/header.hbs",
+		"/Users/growdigital/Sites/growdigital.org/src/assets/css/shame.css",
+		"/Users/growdigital/Sites/growdigital.org/src/assets/modules/components/section/header/header.css",
+		"/Users/growdigital/Sites/growdigital.org/src/assets/modules/components/section/main/main.css",
+		"/Users/growdigital/Sites/growdigital.org/src/assets/modules/components/navigation/nav/nav.css",
+		"/Users/growdigital/Sites/growdigital.org/src/assets/modules/components/navigation/nav/nav.hbs",
+		"/Users/growdigital/Sites/growdigital.org/partials/nav.hbs",
+		"/Users/growdigital/Sites/growdigital.org/partials/main.hbs",
+		"/Users/growdigital/Sites/growdigital.org/src/assets/modules/components/section/footer/footer.css",
+		"/Users/growdigital/Sites/growdigital.org/src/posts/170713-intentionally-blank.md",
+		"/Users/growdigital/Sites/growdigital.org/src/posts/170915-hello-is-this-thing-on.md",
+		"/Users/growdigital/Sites/growdigital.org/src/posts/170921-too-much-boilerplate.md",
+		"/Users/growdigital/Library/Application Support/Sublime Text 3/Packages/InsertDate/README.md",
+		"/Users/growdigital/Library/Application Support/Sublime Text 3/Packages/InsertDate/Default (OSX).sublime-keymap",
+		"/Users/growdigital/Library/Application Support/Sublime Text 3/Packages/User/insert_date.sublime-settings",
+		"/Users/growdigital/Sites/growdigital.org/src/assets/modules/components/section/wrap/wrap.css",
+		"/Users/growdigital/Sites/growdigital.org/src/assets/modules/components/section/aside/aside.css",
+		"/Users/growdigital/Sites/growdigital.org/src/blog.md",
+		"/Users/growdigital/Sites/growdigital.org/partials/blog.hbs",
+		"/Users/growdigital/Sites/growdigital.org/src/index.md",
+		"/Users/growdigital/Sites/growdigital.org/partials/blog-index.hbs",
+		"/Users/growdigital/Sites/growdigital.org/src/posts/170714-another-blog-post.md",
+		"/Users/growdigital/Sites/growdigital.org/src/assets/modules/components/section/footer/footer.hbs",
+		"/Users/growdigital/Sites/growdigital.org/src/assets/modules/components/section/wrap/wrap.hbs",
+		"/Users/growdigital/Sites/growdigital.org/src/assets/modules/components/section/post/post.css",
+		"/Users/growdigital/Library/Application Support/Sublime Text 3/Packages/User/Snippets/frontmatter.sublime-snippet",
+		"/Users/growdigital/Sites/growdigital.org/src/assets/modules/components/section/wrapper/wrapper.css",
+		"/Users/growdigital/Sites/growdigital.org/src/assets/fonts/.gitkeep",
+		"/Users/growdigital/Sites/growdigital.org/src/assets/modules/objects/list/list-center/list-center.css",
+		"/Users/growdigital/Learn/React-Redux/RSS completed/weather/src/reducers/index.js",
+		"/Users/growdigital/Sites/growdigital.org/src/docs/index.md",
+		"/Users/growdigital/Sites/growdigital.org/fractal.js",
+		"/Users/growdigital/Sites/growdigital.org/layouts/layout-home.hbs",
+		"/Users/growdigital/Work/Grow Digital/Creation/Logo/favicons/favicon.html",
+		"/Users/growdigital/Sites/growdigital.org/layouts/home.hbs",
+		"/Users/growdigital/Sites/growdigital.org/src/assets/modules/utilities/display/hiddenvisually/hiddenvisually.css",
+		"/Users/growdigital/Sites/growdigital.org/src/assets/js/bodyclass.js",
+		"/Users/growdigital/Desktop/names.txt",
+		"/Users/growdigital/Sites/growdigital.org/README.md",
+		"/Users/growdigital/Sites/growdigital.org/growdigital.sublime-project",
+		"/Users/growdigital/Sites/groundwork/README.md",
+		"/Users/growdigital/Sites/groundwork/partials/footer.hbs",
+		"/Users/growdigital/Sites/groundwork/index.js",
+		"/Users/growdigital/Sites/groundwork/partials/header.hbs",
+		"/Users/growdigital/Sites/groundwork/src/assets/css/shame.css",
+		"/Users/growdigital/Sites/groundwork/package.json",
+		"/Users/growdigital/Sites/groundwork/src/index.md",
+		"/Users/growdigital/Sites/groundwork/.gitignore",
+		"/Users/growdigital/Sites/groundwork/nodemon.json",
+		"/Users/growdigital/Sites/groundwork/src/assets/css/settings/variables.css",
+		"/Users/growdigital/Sites/groundwork/src/assets/modules/components/navigation/nav/nav.css",
+		"/Users/growdigital/Sites/groundwork/groundwork.sublime-project",
+		"/Users/growdigital/Library/Application Support/Sublime Text 3/Packages/User/TernJS.sublime-settings",
+		"/Users/growdigital/Library/Application Support/Sublime Text 3/Packages/TernJS/TernJS.sublime-settings",
+		"/Users/growdigital/Sites/groundwork/build/styleguide/components/raw/nav/nav.css",
+		"/Users/growdigital/Sites/groundwork/src/html.md",
+		"/Users/growdigital/Sites/groundwork/src/assets/css/test/test.css",
+		"/Users/growdigital/Desktop/lessons.txt",
+		"/Users/growdigital/Desktop/temp.js",
+		"/Users/growdigital/Sites/groundwork/partials/aside.hbs",
+		"/Users/growdigital/Library/Application Support/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings"
+	],
+	"find":
+	{
+		"height": 33.0
+	},
+	"find_in_files":
+	{
+		"height": 122.0,
+		"where_history":
+		[
+			"/Users/growdigital/Sites/growdigital.org/src"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Inventory",
+			"addFish",
+			"NotFound",
+			"Order",
+			"Miss",
+			"MIss",
+			"Order",
+			"Header",
+			"Inventory",
+			"Header",
+			"Order",
+			"Header"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "catch-of-the-day/src/components/App.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1597,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								150,
+								150
+							]
+						],
+						"settings":
+						{
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 67.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 33.0
+	},
+	"input":
+	{
+		"height": 43.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "react.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"appjs",
+				"src/components/App.js"
+			],
+			[
+				"helper",
+				"src/helpers.js"
+			],
+			[
+				"fish",
+				"src/sample-fishes.js"
+			],
+			[
+				"app",
+				"src/components/App.js"
+			],
+			[
+				"invent",
+				"src/components/Inventory.js"
+			],
+			[
+				"addf",
+				"src/components/AddFishForm.js"
+			],
+			[
+				"inventory",
+				"src/components/Inventory.js"
+			],
+			[
+				"store",
+				"src/components/StorePicker.js"
+			],
+			[
+				"inve",
+				"src/components/Inventory.js"
+			],
+			[
+				"sample",
+				"src/sample-fishes.js"
+			],
+			[
+				"index.js",
+				"src/index.js"
+			],
+			[
+				"help",
+				"src/helpers.js"
+			],
+			[
+				"ord",
+				"src/components/Order.js"
+			],
+			[
+				"order",
+				"src/components/Order.js"
+			],
+			[
+				"header",
+				"src/components/Header.js"
+			],
+			[
+				"header.j",
+				"src/components/Header.js"
+			],
+			[
+				"index.h",
+				"public/index.html"
+			],
+			[
+				"pac",
+				"catch-of-the-day/package.json"
+			],
+			[
+				"index",
+				"index.js"
+			],
+			[
+				"aside",
+				"partials/aside.hbs"
+			],
+			[
+				"post",
+				"layouts/post.hbs"
+			],
+			[
+				"base",
+				"src/assets/css/settings/base.css"
+			],
+			[
+				"vr",
+				"src/assets/css/settings/variables.css"
+			],
+			[
+				"typo",
+				"src/assets/css/settings/typography.css"
+			],
+			[
+				"pa",
+				"package.json"
+			],
+			[
+				"va",
+				"src/assets/css/settings/variables.css"
+			],
+			[
+				"typ",
+				"src/assets/css/settings/typography.css"
+			],
+			[
+				"about",
+				"src/about.md"
+			],
+			[
+				"footer",
+				"partials/footer.hbs"
+			],
+			[
+				"home.c",
+				"src/assets/modules/components/section/home/home.css"
+			],
+			[
+				"vari",
+				"src/assets/css/settings/variables.css"
+			],
+			[
+				"header.cs",
+				"src/assets/modules/components/section/header/header.css"
+			],
+			[
+				"shame",
+				"src/assets/css/shame.css"
+			],
+			[
+				"main.c",
+				"src/assets/modules/components/section/main/main.css"
+			],
+			[
+				"nav.css",
+				"src/assets/modules/components/navigation/nav/nav.css"
+			],
+			[
+				"nav.h",
+				"src/assets/modules/components/navigation/nav/nav.hbs"
+			],
+			[
+				"header.css",
+				"src/assets/modules/components/section/header/header.css"
+			],
+			[
+				"home.css",
+				"src/assets/modules/components/section/home/home.css"
+			],
+			[
+				"main.h",
+				"partials/main.hbs"
+			],
+			[
+				"main",
+				"src/assets/modules/components/section/main/main.css"
+			],
+			[
+				"layout",
+				"layouts/layout.hbs"
+			],
+			[
+				"nav.c",
+				"src/assets/modules/components/navigation/nav/nav.css"
+			],
+			[
+				"nav",
+				"src/assets/modules/components/navigation/nav/nav.hbs"
+			],
+			[
+				"footer.hb",
+				"partials/footer.hbs"
+			],
+			[
+				"footer.css",
+				"src/assets/modules/components/section/footer/footer.css"
+			],
+			[
+				"wrap",
+				"src/assets/modules/components/section/wrap/wrap.css"
+			],
+			[
+				"layou",
+				"layouts/layout.hbs"
+			],
+			[
+				"blog",
+				"src/blog.md"
+			],
+			[
+				"about.",
+				"src/about.md"
+			],
+			[
+				"intention",
+				"src/posts/170713-intentionally-blank.md"
+			],
+			[
+				"anotherblogp",
+				"src/posts/170714-another-blog-post.md"
+			],
+			[
+				"helo",
+				"src/posts/170915-hello-is-this-thing-on.md"
+			],
+			[
+				"sha",
+				"src/assets/css/shame.css"
+			],
+			[
+				"sham",
+				"src/assets/css/shame.css"
+			],
+			[
+				"var",
+				"src/assets/css/settings/variables.css"
+			],
+			[
+				"v",
+				"src/assets/css/settings/variables.css"
+			],
+			[
+				"packa",
+				"package.json"
+			],
+			[
+				"varia",
+				"src/assets/css/settings/variables.css"
+			],
+			[
+				"hello",
+				"src/posts/170915-hello-is-this-thing-on.md"
+			],
+			[
+				"asi",
+				"src/assets/modules/components/section/aside/aside.css"
+			],
+			[
+				"asid",
+				"partials/aside.hbs"
+			],
+			[
+				"inten",
+				"src/posts/170713-intentionally-blank.md"
+			],
+			[
+				"intent",
+				"src/posts/170713-intentionally-blank.md"
+			],
+			[
+				"170",
+				"src/posts/170713-intentionally-blank.md"
+			],
+			[
+				"aside.css",
+				"src/assets/modules/components/section/aside/aside.css"
+			],
+			[
+				"about.m",
+				"src/about.md"
+			],
+			[
+				"wrapper",
+				"src/assets/modules/components/section/wrapper/wrapper.css"
+			],
+			[
+				"index.md",
+				"src/index.md"
+			],
+			[
+				"o-list-ce",
+				"src/assets/modules/objects/list/list-center/list-center.css"
+			],
+			[
+				"nav.",
+				"src/assets/modules/components/navigation/nav/nav.css"
+			],
+			[
+				"header.c",
+				"src/assets/modules/components/section/header/header.css"
+			],
+			[
+				"head",
+				"partials/header.hbs"
+			],
+			[
+				"ind",
+				"index.js"
+			],
+			[
+				"util",
+				"src/assets/modules/utilities/display/hiddenvisually/hiddenvisually.css"
+			],
+			[
+				"read",
+				"README.md"
+			],
+			[
+				"gitig",
+				".gitignore"
+			],
+			[
+				"pack",
+				"package.json"
+			],
+			[
+				"nod",
+				"nodemon.json"
+			],
+			[
+				"html.md",
+				"src/html.md"
+			],
+			[
+				"inde",
+				"index.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "grow",
+		"selected_items":
+		[
+			[
+				"grow",
+				"~/Sites/growdigital.org/growdigital.sublime-project"
+			],
+			[
+				"groudn",
+				"~/Sites/groundwork/groundwork.sublime-project"
+			],
+			[
+				"gro",
+				"~/Sites/growdigital.org/growdigital.sublime-project"
+			],
+			[
+				"growdi",
+				"~/Sites/growdigital.org/growdigital.sublime-project"
+			],
+			[
+				"growd",
+				"~/Sites/growdigital.org/growdigital.sublime-project"
+			],
+			[
+				"groundw",
+				"~/Sites/groundwork/groundwork.sublime-project"
+			],
+			[
+				"grou",
+				"~/Sites/groundwork/groundwork.sublime-project"
+			],
+			[
+				"groundwor",
+				"~/Sites/groundwork/groundwork.sublime-project"
+			],
+			[
+				"ground",
+				"~/Sites/groundwork/groundwork.sublime-project"
+			],
+			[
+				"groundwo",
+				"~/Sites/groundwork/groundwork.sublime-project"
+			],
+			[
+				"groun",
+				"~/Sites/groundwork/groundwork.sublime-project"
+			],
+			[
+				"br",
+				"~/Sites/bryncws.co.uk/bryncws.sublime-project"
+			],
+			[
+				"b",
+				"~/Sites/bryncws.co.uk/bryncws.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 214.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
